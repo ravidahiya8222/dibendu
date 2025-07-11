@@ -13,6 +13,6 @@ resource "azurerm_resource_group" "rg2q" {
     name = each.value.name
     location =each.value.location
 }
-mere mumu priyanaka h
+mere nam dibendu h
 
  
