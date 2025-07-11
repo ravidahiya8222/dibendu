@@ -15,4 +15,5 @@ resource "azurerm_resource_group" "rg2q" {
 }
 mere nam dibendu h
 
- 
+
+ mere papa great h
